@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vasilevstanis@gmail.com**
 
-- 📄 Know about my experiences [https://hh.ru/resume/e691c294ff07c0cc060039ed1f37436b416f4d?from=share_ios](https://hh.ru/resume/e691c294ff07c0cc060039ed1f37436b416f4d?from=share_ios)
+- 📄 Know about my experiences [Resume](https://hh.ru/resume/e691c294ff07c0cc060039ed1f37436b416f4d?from=share_ios)
 
 - ⚡ Fun fact **First I designed houses and then web applications.**
 
