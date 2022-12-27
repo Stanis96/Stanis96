@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BF Bot](https://github.com/Stanis96/python-telegram-bot)
 
-- 🌱 I’m improve **my Python skills every day**
+- 🌱 I improve **my Python skills every day**
 
 - 👯 I’m looking to collaborate on [Beer Finder](https://github.com/bycs/beer_finder)
 
