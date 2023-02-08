@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanislav</h1>
 <h3 align="center">I'm a little bit of a Backend Python Developer</h3>
 
-- 🔭 I’m currently working on [BF Bot](https://github.com/Stanis96/python-telegram-bot)
+- 🔭 I’m currently working on [The mini blog API](https://github.com/Stanis96/mini_blog_api)
 
 - 🌱 I improve **my Python skills every day**
 
