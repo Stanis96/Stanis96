@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stanislav</h1>
 <h3 align="center">I'm a little bit of a Backend Python Developer</h3>
 
-- 🔭 I’m currently working on [The mini blog API](https://github.com/Stanis96/mini_blog_api)
+- 🔭 I’m currently working on [The social networking API](https://github.com/Stanis96/mini_blog_api)
 
 - 🌱 I improve **my Python skills every day**
 
 - 👯 I’m looking to collaborate on [Beer Finder](https://github.com/bycs/beer_finder)
 
 - 📫 How to reach me **vasilevstanis@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://hh.ru/resume/e691c294ff07c0cc060039ed1f37436b416f4d?from=share_ios)
 
 - ⚡ Fun fact **First I designed houses and then web applications.**
 
